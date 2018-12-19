@@ -20,9 +20,9 @@ If you have a question about the event, please contact us via email at <adfbosto
 
 This event would not have been possible without the help from our local user group communities and event sponsors who have helped organize the event, provide speakers, volunteer for event day activities, and much more. 
 
-### [List of Confirmed Sessions](sessionlist)
+### [List of Confirmed Sessions](./sessionlist)
 
-### [List of Confirmed Speakers](speakerlist)
+### [List of Confirmed Speakers](./speakerlist)
 
 ### Full Agenda coming soon...
 
@@ -31,7 +31,7 @@ This event would not have been possible without the help from our local user gro
 # Sponsors
 A big thank you for out participating sponsors in this year's Boston Azure DataFest. 
 
-![Logos of Sponsoring Organizations](images/sponsors.jpg "List of Sponsors") 
+![Logos of Sponsoring Organizations](./images/sponsors.jpg "List of Sponsors") 
 
 ## [Attunity](www.attunity.com)
 ## [Cazena](www.cazena.com)
