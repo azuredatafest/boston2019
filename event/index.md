@@ -20,9 +20,9 @@ If you have a question about the event, please contact us via email at <adfbosto
 
 This event would not have been possible without the help from our local user group communities and event sponsors who have helped organize the event, provide speakers, volunteer for event day activities, and much more. 
 
-### [List of Confirmed Sessions](./sessionlist)
+### [List of Confirmed Sessions](/event/sessionlist)
 
-### [List of Confirmed Speakers](./speakerlist)
+### [List of Confirmed Speakers](/event/speakerlist)
 
 ### Full Agenda coming soon...
 
