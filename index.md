@@ -33,9 +33,13 @@ A big thank you for out participating sponsors in this year's Boston Azure DataF
 
 ![Logos of Sponsoring Organizations](./images/sponsors.jpg "List of Sponsors") 
 
-| [Attunity](www.attunity.com) | [Cazena](www.cazena.com) | [Informatica](www.informatica.com) |
-| [Infoworks](www.infoworks.io) | [Insight](https://www.insight.com/en_US/solve/digital-innovation.html) | [MongoDB](https://www.mongodb.com/) | 
-|   | [Snowflake](www.snowflake.com) |   |
+**[Attunity](www.attunity.com)** 
+**[Cazena](www.cazena.com)** 
+**[Informatica](www.informatica.com)** 
+**[Infoworks](www.infoworks.io)** 
+**[Insight](https://www.insight.com/en_US/solve/digital-innovation.html)** 
+**[MongoDB](https://www.mongodb.com/)** 
+**[Snowflake](www.snowflake.com)**
 
 ---
 
