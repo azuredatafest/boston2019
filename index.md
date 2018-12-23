@@ -24,7 +24,7 @@ This event would not have been possible without the help from our local user gro
 
 ### [List of Confirmed Speakers]({{ site.baseurl }}{% link speakerlist.md %})
 
-### Full Agenda coming soon...
+### [Full Agenda]({{ site.baseurl }}{% link agenda.md %})
 
 ---
 
