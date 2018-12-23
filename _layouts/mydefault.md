@@ -33,7 +33,7 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer" width=100%>
-      <section id="main_content" class="inner">
+      <section id="main_content" class="inner" width=100%>
         {{ content }}
       </section>
     </div>
