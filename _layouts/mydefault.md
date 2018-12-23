@@ -33,9 +33,7 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
-      <section id="main_content">
         {{ content }}
-      </section>
     </div>
 
     <!-- FOOTER  -->
