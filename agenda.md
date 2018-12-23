@@ -8,4 +8,4 @@ layout: mydefault
 
 # Event Agenda
 
-<script type="text/javascript" src="https://sessionize.com/api/v2/81dyl2ks/view/grid" width=100%></script>
+<script type="text/javascript" src="https://sessionize.com/api/v2/81dyl2ks/view/grid"></script>
