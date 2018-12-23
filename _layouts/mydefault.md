@@ -12,9 +12,11 @@
 
   <body>
 
+test text
     <!-- HEADER -->
     <div id="header_wrap" class="outer" width=100%>
         <header class="inner">
+test text 2
           {% if site.github.is_project_page %}
             <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
           {% endif %}
