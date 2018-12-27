@@ -26,7 +26,7 @@ This event would not have been possible without the help from our local user gro
 
 ### [Full Agenda]({{ site.baseurl }}{% link agenda.md %})
 
-### [Interactive Agenda]({{ site.baseurl }}{% link pbischedule.md %})
+### [Interactive Agenda]({{ site.baseurl }}{% link pbiSchedule.md %})
 
 
 ---
