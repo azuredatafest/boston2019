@@ -1,6 +1,6 @@
 ---
 title: Interactive Schedule
-layout: default
+layout: mydefault
 ---
 
 # Interactive Schedule
