@@ -8,7 +8,7 @@ layout: default
 
 * Welcome and Opening Remarks - Andy Roberts
 * Which Cloud is my Cloud? - Justin Borgman
-* Machine Learning with “Tiled” Human Genomes using Microsoft Azure and Arvados - Sarah Wait Zaranek [Slies](./sessioncontent/TilingMLAzure_Zaranek.pdf)
+* Machine Learning with “Tiled” Human Genomes using Microsoft Azure and Arvados - Sarah Wait Zaranek [Slides](./sessioncontent/TilingMLAzure_Zaranek.pdf)
 * What's new and what's coming... - Andy Roberts
 * 130-Year-Old Publisher Deploys Automated Data Lake on Azure in Weeks...and So Can You - John Hope
 * Bulletproof Transient Error Handling with Polly - Carl Franklin
