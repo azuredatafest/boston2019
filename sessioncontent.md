@@ -15,7 +15,7 @@ layout: default
 | 130-Year-Old Publisher Deploys Automated Data Lake on Azure in Weeks...and So Can You | John Hope | [Slides](./sessioncontent/Infoworks_on_Azure_Boston_Azure_DataFest_01092019_JHOPE_MOD_Final_v1.0.pptx) |
 | Bulletproof Transient Error Handling with Polly | Carl Franklin | [Slides and Code](./sessioncontent/CarlFranklin_Polly_Code_and_Slides.zip) |
 | Databricks, an Introduction | Chuck Connell | [Slides](./sessioncontent/DataFest_Jan2019_Databricks_Intro.pdf) [Code](./sessioncontent/Chuck_connellDataFest.dbc) |
-| Designing for Azure Data Warehouse Performance | Beth Wolfset | [Slides](https://github.com/BSWolfset/PresentationSlidedecks) | 
+| Designing for Azure Data Warehouse Performance | Beth Wolfset | [Slides](./sessioncontent/DesigningForADWPerformance.pptx) [Other DW Presentations by Beth](https://github.com/BSWolfset/PresentationSlidedecks) | 
 | Enterprise Data Science on Azure: Tools & Techniques for Success | Daniel Parton | |
 | Jump-start Migration to a Modern Data Warehouse on Azure | Ajit Kalura | |
 | Microsoft Managed Services for Open Source Databases | Andrei Fateev | [Slides](./sessioncontent/Azure_Database_Services_OSS.pdf) |
