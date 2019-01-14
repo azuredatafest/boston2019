@@ -10,9 +10,9 @@ layout: default
 * Which Cloud is my Cloud? - Justin Borgman
 * Machine Learning with “Tiled” Human Genomes using Microsoft Azure and Arvados - Sarah Wait Zaranek [Slides](./sessioncontent/TilingMLAzure_Zaranek.pdf)
 * What's new and what's coming... - Andy Roberts
-* 130-Year-Old Publisher Deploys Automated Data Lake on Azure in Weeks...and So Can You - John Hope [Slides] (./sessioncontent/Infoworks_on_Azure_Boston_Azure_DataFest_01092019_JHOPE_MOD_Final_v1.0.pptx)
-* Bulletproof Transient Error Handling with Polly - Carl Franklin
-* Databricks, an Introduction - Chuck Connell
+* 130-Year-Old Publisher Deploys Automated Data Lake on Azure in Weeks...and So Can You - John Hope [Slides](./sessioncontent/Infoworks_on_Azure_Boston_Azure_DataFest_01092019_JHOPE_MOD_Final_v1.0.pptx)
+* Bulletproof Transient Error Handling with Polly - Carl Franklin [Slides and Code](./sessioncontent/CarlFranklin_Polly_Code_and_Slides.zip)
+* Databricks, an Introduction - Chuck Connell [Slides](./sessioncontent/Cloud_Performance_Analysis_and_Benchmarking_Best_Practices_V8.pptx) [Code](./sessioncontent/Chuck_connellDataFest.dbc)
 * Designing for Azure Data Warehouse Performance - Beth Wolfset
 * Enterprise Data Science on Azure: Tools & Techniques for Success - Daniel Parton
 * Jump-start Migration to a Modern Data Warehouse on Azure - Ajit Kalura
