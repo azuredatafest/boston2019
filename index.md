@@ -13,7 +13,7 @@ Boston 2019 Azure Datafest has concluded! We had over 200 attendees, 40 presenta
 We have content from many of our sessions posted and will keep adding over the coming week. 
 
 The session content may be viewed at:
-[https://azuredatafest.github.io/boston2019/sessioncontent]
+<https://azuredatafest.github.io/boston2019/sessioncontent>
 
 
 Thank you for helping to make this a great event! We hope to see you all again next time..... 
