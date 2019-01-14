@@ -6,6 +6,8 @@ title: SessionContent
 layout: default
 ---
 
+| Title | Speaker | Content |
+| ----- | ------- | ------- |
 | Welcome and Opening Remarks | Andy Roberts | [Slides](./sessioncontent/welcome.pptx) |
 | Which Cloud is my Cloud? | Justin Borgman | |
 | Machine Learning with “Tiled” Human Genomes using Microsoft Azure and Arvados | Sarah Wait Zaranek | [Slides](./sessioncontent/TilingMLAzure_Zaranek.pdf) |
