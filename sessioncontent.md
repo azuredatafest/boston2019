@@ -9,7 +9,7 @@ layout: default
 | Title | Speaker | Content |
 | ----- | ------- | ------- |
 | Welcome and Opening Remarks | Andy Roberts | [Slides](./sessioncontent/welcome.pptx) |
-| Which Cloud is my Cloud? | Justin Borgman | |
+| Which Cloud is my Cloud? | Justin Borgman | [Slides](./sessioncontent/starburst_DataFest_Keynote.pptx) |
 | Machine Learning with “Tiled” Human Genomes using Microsoft Azure and Arvados | Sarah Wait Zaranek | [Slides](./sessioncontent/TilingMLAzure_Zaranek.pdf) |
 | What's new and what's coming... | Andy Roberts | [Slides](./sessioncontent/whatsnew.pptx) |
 | 130-Year-Old Publisher Deploys Automated Data Lake on Azure in Weeks...and So Can You | John Hope | [Slides](./sessioncontent/Infoworks_on_Azure_Boston_Azure_DataFest_01092019_JHOPE_MOD_Final_v1.0.pptx) |
@@ -25,7 +25,7 @@ layout: default
 | Azure Managed Instances: A Primer | Chris Seferlis | |
 | Integrating DataBricks with Azure SQL DB and Azure Data Lake Store Gen 2 | Abhinav Garg | [Slides](./sessioncontent/Azure_Databricks_for_Azure_Datafest_Boston.pptx) | 
 | My Company is going to Azure, What can I do? | Paresh Motiwala | | 
-| Presto on Azure: Pursuit of Performance | Matt Fuller | |
+| Presto on Azure: Pursuit of Performance | Matt Fuller | [Slides](./sessioncontent/presto_AzureDataFest.pptx) |
 | Right to the Heart of Customer Data | Philip Duplisey | | 
 | Staging data for Azure SQL services | John Miner | [Slides](./sessioncontent/Staging-Data-For-Azure-SQL-Services-January-2019.pptx) |
 | Best Practices for working with time-series data in Azure using MongoDB | Rob Walters | |
