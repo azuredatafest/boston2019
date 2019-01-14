@@ -16,7 +16,7 @@ The session content may be viewed at:
 https://azuredatafest.github.io/boston2019/sessioncontent
 
 
-Thank you for helping to make this a great event!
+Thank you for helping to make this a great event! We hope to see you all again next time..... 
 
 
 
