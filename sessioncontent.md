@@ -39,7 +39,7 @@ layout: default
 * Azure Data Factory Data Flows - Bringing the "T" in ELT - Chris Seferlis
 * Azure Machine Learning - Jay Liu
 * Azure Stream Analytics Deep Dive - Jack Bender [Slides](./sessioncontent/Azure_Stream_Analytics_Overview.pdf)
-* Big data analytics, Azure ML .. | How to develop real world applications? - Sudhir Chepeni 
+* Big data analytics, Azure ML .. How to develop real world applications? - Sudhir Chepeni 
 * Cloud Performance Analysis and Benchmarking Best Practices - Mike Jung [Slides](./sessioncontent/Cloud_Performance_Analysis_and_Benchmarking_Best_Practices_V8.pptx)
 * Enhance your PowerBI Reporting with Azure Analysis Services - Charlie Pyne [Slides](./sessioncontent/Analysis_services.pptx)
 * Power BI gets 'smarter': infuse more AI and ML into your BI processes - Varsham Papikian 
