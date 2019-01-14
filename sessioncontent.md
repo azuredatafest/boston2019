@@ -36,7 +36,7 @@ layout: default
 | Performance Optimization with Azure SQL Database | Taiob Ali | | 
 | RedPoint Global and Microsoft Deliver Enterprise Customer Engagement Hub | George Corugedo | [Slides](./sessioncontent/CVS_Presentation_for_Microsoft.pdf) |
 | So you want to live on the Edge | Andrew Alexander | | 
-| Teradata on Microsoft Azure | Innovating Together | Larry Quinn | [Slides](./sessioncontent/Teradata_on_Microsoft_Azure-Innovating_Together_larryquinn.pdf) |
+| Teradata on Microsoft Azure - Innovating Together | Larry Quinn | [Slides](./sessioncontent/Teradata_on_Microsoft_Azure-Innovating_Together_larryquinn.pdf) |
 | Accelerate Machine Learning with Azure AI Platform | Pooja Chadha | |
 | Azure Data Factory Data Flows - Bringing the "T" in ELT | Chris Seferlis | |
 | Azure Machine Learning | Jay Liu | |
