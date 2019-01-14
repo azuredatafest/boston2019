@@ -22,7 +22,7 @@ layout: default
 | Modernize your old database-heavy application to cloud architecture! | George Walters | [Slides](./sessioncontent/Customer_Migration_to_Azure_SQL_Database_2019.pdf) |
 | Power BI Integration Case Study - Technical | Tim Roberts / Vikas Gaikwad | |
 | Azure CosmosDB and SQL .Net API a winning combo | Bhavna Mangal | [Slides](./sessioncontent/CosmosDBPresentation.pptx) and [Code](./sessioncontent/CosmosDbDemo.zip) |
-| Azure Managed Instances: A Primer | Chris Seferlis | |
+| Azure Managed Instances: A Primer | Chris Seferlis | [Slides](./sessioncontent/Managed_Instance.pdf) |
 | Integrating DataBricks with Azure SQL DB and Azure Data Lake Store Gen 2 | Abhinav Garg | [Slides](./sessioncontent/Azure_Databricks_for_Azure_Datafest_Boston.pptx) | 
 | My Company is going to Azure, What can I do? | Paresh Motiwala | [Slides](./sessioncontent/My_Company_is_going_to_Azure.pptx) | 
 | Presto on Azure: Pursuit of Performance | Matt Fuller | [Slides](./sessioncontent/presto_AzureDataFest.pptx) |
@@ -38,7 +38,7 @@ layout: default
 | So you want to live on the Edge | Andrew Alexander | | 
 | Teradata on Microsoft Azure - Innovating Together | Larry Quinn | [Slides](./sessioncontent/Teradata_on_Microsoft_Azure-Innovating_Together_larryquinn.pdf) |
 | Accelerate Machine Learning with Azure AI Platform | Pooja Chadha | |
-| Azure Data Factory Data Flows - Bringing the "T" in ELT | Chris Seferlis | |
+| Azure Data Factory Data Flows - Bringing the "T" in ELT | Chris Seferlis | [Slides](./sessioncontent/ADF_DF.pdf) |
 | Azure Machine Learning | Jay Liu | [Slides](./sessioncontent/Azure_Machine_Learning_Service.pdf) |
 | Azure Stream Analytics Deep Dive | Jack Bender | [Slides](./sessioncontent/Azure_Stream_Analytics_Overview.pdf) |
 | Big data analytics, Azure ML .. How to develop real world applications? | Sudhir Chepeni | | 
