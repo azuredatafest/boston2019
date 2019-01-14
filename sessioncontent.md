@@ -24,7 +24,7 @@ layout: default
 | Azure CosmosDB and SQL .Net API a winning combo | Bhavna Mangal | [Slides](./sessioncontent/CosmosDBPresentation.pptx) and [Code](./sessioncontent/CosmosDbDemo.zip) |
 | Azure Managed Instances: A Primer | Chris Seferlis | |
 | Integrating DataBricks with Azure SQL DB and Azure Data Lake Store Gen 2 | Abhinav Garg | [Slides](./sessioncontent/Azure_Databricks_for_Azure_Datafest_Boston.pptx) | 
-| My Company is going to Azure, What can I do? | Paresh Motiwala | | 
+| My Company is going to Azure, What can I do? | Paresh Motiwala | Slides](./sessioncontent/My_Company_is_going_to_Azure.pptx) | 
 | Presto on Azure: Pursuit of Performance | Matt Fuller | [Slides](./sessioncontent/presto_AzureDataFest.pptx) |
 | Right to the Heart of Customer Data | Philip Duplisey | | 
 | Staging data for Azure SQL services | John Miner | [Slides](./sessioncontent/Staging-Data-For-Azure-SQL-Services-January-2019.pptx) |
