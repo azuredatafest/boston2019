@@ -28,7 +28,7 @@ layout: default
 | Presto on Azure: Pursuit of Performance | Matt Fuller | [Slides](./sessioncontent/presto_AzureDataFest.pptx) |
 | Right to the Heart of Customer Data | Philip Duplisey | | 
 | Staging data for Azure SQL services | John Miner | [Slides](./sessioncontent/Staging-Data-For-Azure-SQL-Services-January-2019.pptx) |
-| Best Practices for working with time-series data in Azure using MongoDB | Rob Walters | |
+| Best Practices for working with time-series data in Azure using MongoDB | Rob Walters | [Slides](https://drive.google.com/file/d/1JzCVBu-mXhzOMC_FD-whpUk7ob5dMHMO/view) |
 | Data Science Basic Concepts | Pavle Coric | | 
 | Data Security in Azure | Srini Ambati | [Slides](./sessioncontent/DataSecurityInAzure.pdf) | 
 | Financial Services - Data Driven Customer Experience | Steve Alienello | | 
