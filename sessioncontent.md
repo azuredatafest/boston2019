@@ -17,10 +17,10 @@ layout: default
 | Databricks, an Introduction | Chuck Connell | [Slides](./sessioncontent/DataFest_Jan2019_Databricks_Intro.pdf) [Code](./sessioncontent/Chuck_connellDataFest.dbc) |
 | Designing for Azure Data Warehouse Performance | Beth Wolfset | [Slides](./sessioncontent/DesigningForADWPerformance.pptx) and [Other DW Presentations by Beth](https://github.com/BSWolfset/PresentationSlidedecks) | 
 | Enterprise Data Science on Azure: Tools & Techniques for Success | Daniel Parton | |
-| Jump-start Migration to a Modern Data Warehouse on Azure | Ajit Kalura | [Slides]<./sessioncontent/Infa_for_MSFT_EDW_Offloading_Datafest.pdf> |
+| Jump-start Migration to a Modern Data Warehouse on Azure | Ajit Kalura | [Slides](./sessioncontent/Infa_for_MSFT_EDW_Offloading_Datafest.pdf) |
 | Microsoft Managed Services for Open Source Databases | Andrei Fateev | [Slides](./sessioncontent/Azure_Database_Services_OSS.pdf) |
 | Modernize your old database-heavy application to cloud architecture! | George Walters | [Slides](./sessioncontent/Customer_Migration_to_Azure_SQL_Database_2019.pdf) |
-| Power BI Integration Case Study - Technical | Tim Roberts / Vikas Gaikwad | |
+| Power BI Integration Case Study - Technical | Tim Roberts / Vikas Gaikwad | [Slides](./sessioncontent/pluralpoint_aspect_dataFest2019.pptx) |
 | Azure CosmosDB and SQL .Net API a winning combo | Bhavna Mangal | [Slides](./sessioncontent/CosmosDBPresentation.pptx) and [Code](./sessioncontent/CosmosDbDemo.zip) |
 | Azure Managed Instances: A Primer | Chris Seferlis | [Slides](./sessioncontent/Managed_Instance.pdf) |
 | Integrating DataBricks with Azure SQL DB and Azure Data Lake Store Gen 2 | Abhinav Garg | [Slides](./sessioncontent/Azure_Databricks_for_Azure_Datafest_Boston.pptx) | 
