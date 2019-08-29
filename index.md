@@ -6,26 +6,18 @@ title: Home
 layout: default
 ---
 
-# Thank you!
+# Welcome!
 
-Boston 2019 Azure Datafest has concluded! We had over 200 attendees, 40 presentations and 7 sponsoring organizations. We saw a tremendous amount of energy throughout the day and overheard some great conversaitons about how you and your organizations are leveraging Azure today and how you are thinking about re-thinking your data and application strategies to take advantage of Azure in the future. 
+Boston 2019 Azure Datafest 2nd Edition is coming, and we're looking forward to keeping the amazing momentum we've seen with the events we've held in the past with great Sponsors, Speakers, and Attendees!
 
-We have content from many of our sessions posted and will keep adding over the coming week. 
-
-The session content may be viewed at:
-<https://azuredatafest.github.io/boston2019/sessioncontent>
-
-
-Thank you for helping to make this a great event! We hope to see you all again next time..... 
-
-
+We are in the early stages of planning, but will be soon sending out our call for speakers, call for sponsors, and attendee registration pages.
 
 ---
 # *Previous Content* 
 
 # Welcome to Boston Azure Datafest!
 
-We are pleased to announce that registration is open for the "Winter 2019 Boston Azure DataFest", a 1-day event to be held on Wednesday, January 9,  2019, 9:00AM to 5:00 PM at the Microsoft Technology Center at 5 Wayside Rd, Burlington, MA 01803. 
+We are pleased to announce that registration is open for the "Fall 2019 Boston Azure DataFest", a 1-day event to be held on Wednesday, December 11,  2019, 9:00AM to 5:00 PM at the Microsoft Technology Center at 5 Wayside Rd, Burlington, MA 01803. 
 
 Please note - this is a paid conference, we are charging a nominal registration fee of $22.00 up to the 1/4/2019 registration deadline. Hurry though, we only have 200 seats available for this great one day event packed with over 30 sessions on the Mirosoft Azure Data Platform. This is a great event that you will *not* want to miss.
 
